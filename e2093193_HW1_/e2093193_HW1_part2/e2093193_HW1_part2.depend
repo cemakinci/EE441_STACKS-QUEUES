@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1541955408 source:c:\users\user\desktop\e2093193_hw1_part2\main.cpp
+	<iostream>
+	<stdlib.h>
+	<fstream>
+	<string>
+	<limits>
+	<map>
+
+1541965464 source:c:\users\user\desktop\ee 4_1\ee441\Ödev\e2093193_hw1_\e2093193_hw1_part2\main.cpp
+	<iostream>
+	<stdlib.h>
+	<fstream>
+	<string>
+	<limits>
+	<map>
+
